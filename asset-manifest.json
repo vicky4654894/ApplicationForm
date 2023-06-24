@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ApplicationForm/static/css/main.15460896.css",
+    "main.js": "/ApplicationForm/static/js/main.2e8373ad.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ApplicationForm/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ApplicationForm/index.html",
+    "main.15460896.css.map": "/ApplicationForm/static/css/main.15460896.css.map",
+    "main.2e8373ad.js.map": "/ApplicationForm/static/js/main.2e8373ad.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ApplicationForm/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15460896.css",
+    "static/js/main.2e8373ad.js"
+  ]
+}
